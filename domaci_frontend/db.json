@@ -1,0 +1,46 @@
+{
+  "osobe": [
+    {
+      "id": 1,
+      "imePrezime": "HTML je jednostavan",
+      "adresa": "Vukovarska 7",
+      "datum": "2019-05-30T17:30:31.098Z"
+    },
+    {
+      "id": 2,
+      "imePrezime": "React koristi JSX sintaksu",
+      "adresa": "Vukovarska 9",
+      "datum": "2019-05-30T18:39:34.091Z"
+    },
+    {
+      "id": 3,
+      "imePrezime": "GET i POST su najvaznije metode HTTP protokola",
+      "adresa": "Vukovarska 3",
+      "datum": "2019-05-30T19:20:14.298Z"
+    },
+    {
+      "imePrezime": "dwedwe",
+      "adresa": " ",
+      "datum": "2020-10-18T09:28:52.484Z",
+      "id": 4
+    },
+    {
+      "imePrezime": "MateaLaća ",
+      "adresa": "lacamatea@gmail.com",
+      "datum": "2020-10-18T11:14:02.421Z",
+      "id": 5
+    },
+    {
+      "imePrezime": "Petra Perić",
+      "adresa": "pperic@pmfst.hr",
+      "datum": "2020-10-18T11:30:53.960Z",
+      "id": 6
+    },
+    {
+      "imePrezime": "Marija Marić",
+      "adresa": " mmaric@pmfst.hr",
+      "datum": "2020-10-18T20:42:10.730Z",
+      "id": 7
+    }
+  ]
+}
