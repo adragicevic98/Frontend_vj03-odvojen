@@ -1,6 +1,6 @@
 import axios from 'axios'
-// const osnovniUrl = 'http://localhost:3001/api/osobe'
-const osnovniUrl='/api/poruke'
+//  const osnovniUrl = 'http://localhost:3001/api/osobe'
+const osnovniUrl='/api/osobe'
 
 const dohvatiSve = () => {
     return axios.get(osnovniUrl);
